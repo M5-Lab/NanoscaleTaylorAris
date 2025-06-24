@@ -1,2 +1,2 @@
 This repository contains all the dataset (complete_dataset.xlsx) and an example script for a 5-monomer polymeric fluid (LAMMPS-example-script) for the article "[Revealing nanoscale slip in Taylor-Aris dispersion](https://doi.org/10.1039/D4NR03468F)".
-The datafiles for monomeric and polymeric fluid and for solids with different nearest-neighbor distances generated using "moltemplate" are provided for easy replication of the data.
+The datafiles for monomeric and polymeric fluid and for solids with different nearest-neighbor distances generated using "[moltemplate]([url](https://github.com/jewettaij/moltemplate/tree/master))" are provided for easy replication of the data.
